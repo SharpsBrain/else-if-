@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[3]:
+
+
+#a==b
+#a!=n
+#a<b
+#a>b
+#a<=b
+#a>=b
+a=33
+b=200
+if b>a:
+    print("b is greater than a")
+    
+
+
+# In[4]:
+
+
+a=33
+b=33
+if b<a:
+    print("b is greater than a")
+elif a==b:
+    print("a is equals to b")
+
+
+# In[7]:
+
+
+a=44
+b=43
+if b>a: print("b is greater than a")
+else:print("a is greater than b")
+
+
+# In[ ]:
+
+
+
+
